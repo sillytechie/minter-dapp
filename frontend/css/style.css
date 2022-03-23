@@ -61,6 +61,11 @@ header .container {
   align-items: center;
 }
 
+/* LOGO */
+.logo{
+  max-width: 50px;
+}
+
 /* NOT CONNECTED */
 .not-connected {
   align-items: center;
